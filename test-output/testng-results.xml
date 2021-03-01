@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35970" started-at="2021-03-01T22:00:34 IST" finished-at="2021-03-01T22:01:10 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35970" started-at="2021-03-01T22:00:34 IST" finished-at="2021-03-01T22:01:10 IST">
+      <class name="Practice.Addingtocart">
+        <test-method status="PASS" signature="additemstocart()[pri:2, instance:Practice.Addingtocart@57250572]" name="additemstocart" duration-ms="9199" started-at="2021-03-01T22:01:00 IST" finished-at="2021-03-01T22:01:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additemstocart -->
+      </class> <!-- Practice.Addingtocart -->
+      <class name="Practice.Creatingaccount">
+        <test-method status="PASS" signature="accountsetup()[pri:0, instance:Practice.Creatingaccount@21b2e768]" name="accountsetup" is-config="true" duration-ms="16057" started-at="2021-03-01T22:00:34 IST" finished-at="2021-03-01T22:00:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountsetup -->
+        <test-method status="PASS" signature="fillacoountdetails()[pri:1, instance:Practice.Creatingaccount@21b2e768]" name="fillacoountdetails" duration-ms="10144" started-at="2021-03-01T22:00:50 IST" finished-at="2021-03-01T22:01:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillacoountdetails -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Practice.Creatingaccount@21b2e768]" name="teardown" is-config="true" duration-ms="516" started-at="2021-03-01T22:01:09 IST" finished-at="2021-03-01T22:01:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Practice.Creatingaccount -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

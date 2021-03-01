@@ -1,0 +1,11 @@
+21:53:24.632 [main] INFO  Practice.Creatingaccount - account created succesfully
+21:53:28.780 [main] INFO  Practice.Creatingaccount - Succesfully verified username
+21:53:33.052 [main] INFO  Practice.Addingtocart - navigated to women tab and searched for summer dresses
+21:53:33.344 [main] INFO  Practice.Addingtocart - item added to cart suceesfully
+21:53:36.739 [main] INFO  Practice.Addingtocart - Verified added item in the cart
+21:59:18.520 [main] INFO  Practice.Creatingaccount - email id entered and navigated to account creation page 
+22:00:50.270 [main] INFO  Practice.Creatingaccount - email id entered and navigated to account creation page 
+22:00:57.400 [main] INFO  Practice.Creatingaccount - account created succesfully
+22:01:00.447 [main] INFO  Practice.Creatingaccount - Succesfully verified username
+22:01:04.722 [main] INFO  Practice.Addingtocart - navigated to women tab and searched for summer dresses
+22:01:04.965 [main] INFO  Practice.Addingtocart - item added to cart suceesfully
